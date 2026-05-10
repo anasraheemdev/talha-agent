@@ -1,0 +1,15 @@
+Patient Name: Jane Smith
+Age: 28
+Date: 2026-04-22
+
+Test Name	Result	Range
+Color	Yellow	Yellow
+Appearance	Clear	Clear
+pH	6.0	4.5 - 8.0
+Protein	Negative	Negative
+Glucose	Negative	Negative
+Ketones	Negative	Negative
+Nitrites	Negative	Negative
+Leukocyte Esterase	Trace	Negative
+
+Comments: Urinalysis appears largely normal with mild leukocyte esterase trace; correlate clinically for urinary symptoms if present.

@@ -1,0 +1,14 @@
+Patient Name: John Doe
+Age: 35
+Date: 2026-05-07
+
+Test Name	Result	Range
+WBC	12.6 x10^3/uL	4.0 - 11.0
+RBC	4.2 x10^6/uL	4.5 - 5.9
+Hemoglobin	12.2 g/dL	13.5 - 17.5
+Hematocrit	37.5 %	41.0 - 53.0
+Platelets	210 x10^3/uL	150 - 450
+Neutrophils	72 %	40 - 70
+Lymphocytes	18 %	20 - 40
+
+Comments: Mild leukocytosis and borderline anemia. Further iron studies suggested.

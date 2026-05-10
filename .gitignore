@@ -1,0 +1,13 @@
+node_modules
+.env
+.env.*
+*.log
+.DS_Store
+.venv
+dist
+build
+**/__pycache__
+**/*.py[cod]
+frontend/.next
+backend/uploads
+
